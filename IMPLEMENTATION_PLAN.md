@@ -1,0 +1,9 @@
+Build and finish **Wobbly Cargo**, an original, polished 2D physics browser game for CrazyGames. Inspect the project first, then implement, run, test, and fix the complete game. I will create the covers and preview videos myself; do not make those.
+
+Core loop: Drive a small delivery vehicle across short obstacle courses while unstable cargo rocks, slides, and sometimes falls off. Reach the destination with as much cargo intact as possible. Make driving satisfying, crashes funny, and retries nearly instant. Support simple keyboard and touch controls. Start the first level immediately and teach through play.
+
+Create 30 varied, carefully designed levels with a fair difficulty curve, different cargo and obstacles, optional three-star goals, cosmetic unlocks, saved progress, and a seeded daily challenge. Add responsive sound, particles, readable UI, and a consistent original art style. Prioritize fast loading, a small build, mobile and desktop layouts, and physics that behave consistently across refresh rates.
+
+Integrate the current **CrazyGames HTML5 v3 SDK** following https://docs.crazygames.com/. Send gameplay start/stop events at the correct moments. Basic Launch must work smoothly with ads disabled. Prepare Full Launch ads through the SDK only: midgame ads at suitable level-result breaks and occasional, clearly optional rewarded bonuses. Never interrupt a run; handle unavailable ads and SDK errors without blocking progress.
+
+Deliver the working build, source, and a short README with build and upload instructions. Test complete playthroughs, touch controls, save/load, common CrazyGames iframe sizes, and SDK failure paths. Do not submit the game; I will handle publication.
