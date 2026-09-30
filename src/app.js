@@ -24,7 +24,7 @@ const THEME_SONG = {
   volcano: 'volcano', volcanoDusk: 'volcano', moon: 'moon', moonDeep: 'moon',
 };
 const BREAK_SND = { egg: ['crack', 'splat'], tv: ['shatter'], melon: ['splat'], cake: ['splat'], tnt: ['crack'], vase: ['shatter'], crystal: ['shatter'] };
-const DEMO_LEVELS = [3, 7, 11, 14, 21, 5, 16, 25, 8, 26, 32, 36, 42, 45];
+const DEMO_LEVELS = [3, 7, 11, 14, 21, 5, 16, 25, 8, 28, 32, 36, 41, 45];
 const MIDGAME_MIN_RUNS = 3;
 const GARAGE_REWARD = 50;
 const GARAGE_REWARD_COOLDOWN = 180;

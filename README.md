@@ -3,7 +3,9 @@
 A 2D physics delivery game for CrazyGames. Drive a little truck over hills, jumps, ferries and hammers
 without dropping the wobbly cargo. The game includes:
 
-- 50 levels in 5 worlds. Each world adds new hazards and new cargo:
+- 50 levels in 5 worlds, getting steadily harder from 1 to 50: longer routes (about 35 s to 90 s for a clean run),
+  more hazards per stretch, tougher hazard settings and more fragile cargo. Each world adds new hazards and new cargo
+  and mixes them with everything from the earlier worlds:
   - **Sunny Meadows (1–10):** hills, seesaws, logs, bridges, first jumps and bouncers.
   - **Dusty Canyon (11–20):** eggs, falling rocks, boost pads, hammers, ferries, wind and a runaway boulder that flattens a slow truck.
   - **Frosty Peaks (21–30):** ice, snowball chases, lifts, ski jumps, penguins and a piano with TNT.
